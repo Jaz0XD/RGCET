@@ -1,0 +1,11 @@
+select * from emp where empno=73;
+
+select ename from employee1 ORDER BY job;
+
+select ename from employee1 order by job DESC
+
+select min(salary) from employee1 GROUP BY deptno;
+
+select min(deptno) from employee1 group by salary HAVING count(deptno) >= 1;
+
+select ename from employee1 where address = '';

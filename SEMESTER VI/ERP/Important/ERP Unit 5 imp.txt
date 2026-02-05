@@ -1,0 +1,10 @@
+UNIT-5 
+1. Discuss how Siebel objects work as unit to configure applications?🔥🔥🔥
+2. Explain in detail about various objects involved in creating Business Objects?
+3. Design the Siebel business components with objects and configuring applications🔥🔥
+4. Describe in detail Business object layer of Siebel?
+5. Give an account of Siebel CRM basics?
+6. Explain the subsystems of Siebel business objects and explain the joins and links in Siebel🔥🔥
+7. Discuss the various steps to run EIM jobs in Siebel
+8. explain different types of joins
+9. discuss Siebel e-business applications🔥🔥

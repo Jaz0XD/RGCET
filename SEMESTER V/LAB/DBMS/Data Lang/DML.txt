@@ -1,0 +1,5 @@
+insert into e1(e_id, e_name) values(101, 'raj');
+
+update e1 set e_sal = 500 where e_name='john';
+
+delete from e1 where(e_id=103);

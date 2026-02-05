@@ -1,0 +1,8 @@
+UNIT-2
+1. Draw and explain the architecture of SAP R/3🔥🔥🔥🔥
+2. Explain the program structure of ABAP/4 with appropriate example?🔥🔥🔥🔥🔥
+3. Explain the importance of Enterprise and role of enterprise with example?
+4. Discuss the statements and how to use it?
+5. Discuss briefly any three SAP modules functions and its applications. ?
+6. Explain the features and step by step process of SAP advanced planner and optimizer?
+7. Write about advanced planner and optimizer?

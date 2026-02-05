@@ -1,0 +1,17 @@
+set serveroutput on;
+declare
+i number;
+c number;
+n number:=&n;
+a number:=-1;
+b number:=1;
+begin
+for i in 1..n
+loop
+c:=a+b;
+dbms_output.put_line(c);
+a:=b;
+b:=c;
+end loop;
+end;
+/

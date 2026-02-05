@@ -1,0 +1,21 @@
+set serveroutput on;
+declare
+len number;
+a integer;
+str1 varchar(10):='&str1';
+str2 varchar(10);
+begin
+len:=length(str1);
+a:=len;
+for i in 1..a
+loop
+str2:=str2||substr(str1, len,1);
+len:=len-1;
+end loop;
+if(str1=str2) then
+dbms_output.put_line(str1||' is a palindrome');
+else
+dbms_output.put_line(str1||' is not a palindrome');
+end if;
+end;
+/

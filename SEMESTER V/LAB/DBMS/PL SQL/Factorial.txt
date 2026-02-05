@@ -1,0 +1,15 @@
+set serveroutput on;
+declare
+f number:=1;
+i number;
+n number:=&n;
+begin
+for i in 1..n
+loop
+f:=f*i;
+end loop;
+f:=f*i;
+end loop;
+dbms_output.put_line('the factorial of given number is:'||f);
+end;
+/

@@ -1,0 +1,13 @@
+create table emp(empno number(5));
+
+alter table emp add(job carchar(20));
+
+alter table emp modify(emp_name char(30));
+
+alter table emp drop(job);
+
+truncate table emp;
+
+rename emp to employee;
+
+drop table employee;

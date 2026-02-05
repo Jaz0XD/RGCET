@@ -1,0 +1,17 @@
+UNIT - 3 
+1. Explain the workflow analysis of oracle suite?🔥🔥
+2. How data were house is different from OLTP system? Explain DW connectors?
+3. Elaborate on Oracle Electronic data exchange?
+4. Imagine that all daily transactions of an Enterprise are regularly stored in OLTP database. If so,
+(i) do we really need Data Ware House?
+(ii) Draw a block diagram of DWH.
+(iii) Give the characteristics of DWH.
+(iv) Distinguish between Data WareHouse and OLAP
+5. (i) List out the EDI functions in Oracle
+    (ii) Describe in detail Data file structure in Oracle
+6. Explain the concept of oracle EDI? State its benefits.🔥🔥🔥
+7. Explain the technologies related to Oracle 11i
+8. Illustrate the process of data warehouse connectors and discuss its five components.
+9. Explain the tree types of PL/SQL statements with an example
+10. Describe how  to generate reports on ORACLE 
+11. Describe the installation and use the ORACLE in Data Connectors
